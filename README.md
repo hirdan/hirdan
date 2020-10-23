@@ -3,7 +3,7 @@
 
 <!--
 **hirdan/hirdan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LinkedIn](https://www.linkedin.com/in/hirdanaggarwal/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
-You have finally discovered my Github profile. <br>
+
+You have finally discovered my Github profile. 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/hirdan/hirdan/issues/new"><b>here</b></a><br>
 or <a href="mailto:aggarwalhirdan@gmail.com"><b>email</b></a> me
 
 <i>Happy Coding!</i> 😊
 
-![Hirdan's Github stats](https://github-readme-stats.vercel.app/api?username=hirdan&show_icons=true&theme=dark&count_private=true)
+![Hirdan's Github stats](https://github-readme-stats.vercel.app/api?username=hirdan&show_icons=true&theme=dark&count_private=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirdan&layout=compact)
 <p align="right">
  <img align="left" src=https://komarev.com/ghpvc/?username=hirdan alt=hirdan/>
