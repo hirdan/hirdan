@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Hirdan's Github stats](https://github-readme-stats.vercel.app/api?username=hirdan&show_icons=true&theme=dark&count_private=true)
+[![HitCount](http://hits.dwyl.com/hirdan/hirdan.svg)](http://hits.dwyl.com/hirdan/hirdan)
