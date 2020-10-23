@@ -24,7 +24,7 @@ or <a href="mailto:aggarwalhirdan@gmail.com"><b>Email</b></a> me
 ![Hirdan's Github stats](https://github-readme-stats.vercel.app/api?username=hirdan&show_icons=true&theme=dark&count_private=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirdan&layout=compact&theme=dark)
 <a href="https://github.com/hirdan/cryptocurrencies-flutter">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hirdan&repo=cryptocurrencies-flutter&theme=dark" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=hirdan&repo=cryptocurrencies-flutter&theme=dark" />
 </a><br>
 <p align="left">
 <img align="left" src=https://komarev.com/ghpvc/?username=hirdan alt=hirdan/>
