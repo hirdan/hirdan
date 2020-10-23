@@ -24,6 +24,7 @@ or <a href="mailto:aggarwalhirdan@gmail.com"><b>email</b></a> me
 <i>Happy Coding!</i> 😊
 
 ![Hirdan's Github stats](https://github-readme-stats.vercel.app/api?username=hirdan&show_icons=true&theme=dark&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirdan&layout=compact)]
 <p align="right">
  <img align="left" src=https://komarev.com/ghpvc/?username=hirdan alt=hirdan/>
 <a href="https://linkedin.com/in/hirdanaggarwal" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="hirdanaggarwal" height="20" width="20" /></a>
