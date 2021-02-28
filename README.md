@@ -8,23 +8,20 @@ Here are some ideas to get you started:
 <h3 align="center">A self-taught programmer and born at very little age😜</h3>
 You have finally discovered my Github profile. <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on ... interview preparations.
+- 🌱 I’m currently learning ... development.
+- 👯 I’m looking to collaborate on ... development projects.
+- 🤔 I’m looking for help with ... internships and full time job offers.
+- 💬 Ask me about ... anything you would like to know and feel that i can be of great help to.
 - 📫 How to reach me ... <a href="https://linkedin.com/in/hirdanaggarwal" target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="hirdanaggarwal" height="20" width="20" /></a>
-- 😄 Pronouns ...
-- ⚡ Fun fact ...
+- 😄 Pronouns ... anything you would like to say😜.
+- ⚡ Fun fact ... even i dont know that xD😜.
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/hirdan/hirdan/issues/new"><b>Here</b></a><br>
 or <a href="mailto:aggarwalhirdan@gmail.com"><b>Email</b></a> me
 
 <i>Happy Coding!</i> 😊
-### Languages and Tools:
-
-<p align="left"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="22" height="22"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/swift/swift-original-wordmark.svg" alt="swift" width="22" height="22"/></p>
 
 ![Hirdan's Github stats](https://github-readme-stats.vercel.app/api?username=hirdan&show_icons=true&theme=dark&count_private=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirdan&layout=compact&theme=dark)
